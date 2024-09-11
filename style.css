@@ -1,0 +1,61 @@
+h1
+{
+    color:aqua;
+    font-weight: bolder;
+}
+#container
+{
+    height:700px;
+    width:300px;
+    border:2px solid rgb(206, 218, 187);
+    background-color: antiquewhite;
+    display:flex;
+      flex-direction: row;
+      
+     
+    
+}
+#box1
+{
+ border:2px solid red;
+ background-color: blue;
+ height:100px;
+ width:100px;
+ flex-grow: 12;
+ flex-shrink: 12;
+ 
+}
+#box2
+{
+    border:2px solid darkgoldenrod;
+    background-color: blueviolet;
+    height:100px;
+ width:100px;
+ flex-grow:5;
+ flex-shrink:20;
+}
+#box3
+{
+    border:2px solid rosybrown;
+    background-color: brown;
+    height:100px;
+    width:100px;
+}
+#box4
+{
+    border:2px solid darkgoldenrod;
+    background-color: blueviolet;
+    height:100px;
+    width:100px;
+    
+}
+
+#box5
+{
+    
+ border:2px solid red;
+ background-color: blue;
+ height:100px;
+ width:100px;
+ 
+}
